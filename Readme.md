@@ -12,7 +12,7 @@
 &nbsp;
 ***
 
-# **Shopify Clone**
+# **Shopify Clone (https://www.shopify.in/)**
 
 &nbsp;
 ***
