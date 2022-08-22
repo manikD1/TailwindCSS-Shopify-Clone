@@ -49,39 +49,39 @@
 ***
 ## **📷 Post Designing Screenshots 📷**
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen1.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen1.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen2.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen2.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen3.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen3.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen4.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen4.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen5.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen5.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen6.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen6.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen7.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen7.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen8.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen8.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen9.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen9.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen10.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen10.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen11.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen11.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen12.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen12.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen13.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen13.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen14.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen14.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen15.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen15.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen16.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen16.JPG)
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Screen17.JPG)
+![](https://github.com/manikD1/TailwindCSS-Shopify-Clone/blob/main/Screenshots/Screen17.JPG)
 
 
 
